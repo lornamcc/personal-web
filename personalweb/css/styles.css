@@ -1,0 +1,22 @@
+body{
+    background-color:#ffecb4
+    ;
+}
+h1{
+    color:#e5771eba;
+    font-size: 90px  ;
+    font-family: 'Playfair Display'
+}
+h2{
+    color:#5a3d2b;
+    text-decoration: underline;
+    font-family: 'Playfair Display', serif;
+}
+h3{color:#75c8ae
+    ;}
+p{
+    color: #f4a127;
+    font-weight:bold;
+    font-style: italic;
+    font-size: 1.5em;
+}
